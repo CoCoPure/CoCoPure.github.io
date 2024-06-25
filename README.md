@@ -2,5 +2,4 @@
 Official CoCo Pure site !
 
 # Installaction Guide
-# ___________________
 

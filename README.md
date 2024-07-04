@@ -1,5 +1,7 @@
-# CoCoPure.github.io
+# CoCoPure
 Official CoCo Pure site !
 
-# Installaction Guide
 
+>this is only site repository!
+>to see CoCoPure repository
+>please visit https://github.com/CoCoPure/CoCoPure
